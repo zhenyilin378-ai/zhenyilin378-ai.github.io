@@ -62,7 +62,7 @@ education:
 # CV 按鈕設定
 button:
   text: "Download CV"
-  url: "/uploads/Youchen_CV.pdf?v=2"
+  url: "/uploads/Youchen_CV.pdf?v=3"
 ---
 
 ## About Me
