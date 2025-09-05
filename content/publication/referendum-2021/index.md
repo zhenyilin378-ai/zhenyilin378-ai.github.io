@@ -1,8 +1,8 @@
 ---
 title: "Non-Election Concurrent Referendum Participation: Comparing Taiwan's 2018 and 2021 Referendums"
 authors:
-- You Chen
-- Yong-Ming Hsu
+  - You Chen
+  - Yong-Ming Hsu
 date: 2024-01-01
 publication_types: ["2"]  # 2 = Journal Article
 publication: "Journal of Election Studies"
