@@ -39,11 +39,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research explores the interaction between **political elites and voters**, with a focus on legislative politics, public opinion, and political behavior. I am particularly interested in how voters perceive and evaluate position changes by legislators and how these evaluations shape democratic representation.  
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+My work has appeared in journals such as Journal of Electoral Studies and *Taiwanese Journal of Political Science*, and I have presented papers at major conferences including the **American Political Science Association Annual Meeting** and the **World Congress of Taiwan Studies**.  
+
+Methodologically, I employ **quantitative methods, survey research, and survey experiments** to investigate voter evaluations, representation, and legislative behavior.
     design:
       columns: '1'
   - block: collection
