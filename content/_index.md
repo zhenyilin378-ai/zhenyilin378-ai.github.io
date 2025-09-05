@@ -9,25 +9,22 @@ design:
   spacing: "6rem"
 
 sections:
+  # ===== Bio / Hero =====
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: "Download CV"
         url: "/uploads/Youchen_CV.pdf?v=3"
     design:
       css_class: dark
-      # Avatar customization
       avatar:
-        size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -35,6 +32,7 @@ sections:
           position: center
           parallax: false
 
+  # ===== My Research =====
   - block: markdown
     content:
       title: "📚 My Research"
@@ -48,10 +46,11 @@ sections:
     design:
       columns: "1"
 
+  # ===== Publications (anchor: #papers) =====
   - block: collection
     id: papers
     content:
-      title: "Featured Publications"
+      title: "Selected Publications"
       filters:
         folders:
           - publication
@@ -71,6 +70,7 @@ sections:
     design:
       view: citation
 
+  # ===== Talks =====
   - block: collection
     id: talks
     content:
@@ -82,31 +82,23 @@ sections:
       view: article-grid
       columns: 1
 
+  # ===== Experience (新加，對應 #experience) =====
   - block: collection
-    id: news
+    id: experience
     content:
-      title: "Recent News"
-      subtitle: ""
-      text: ""
-      page_type: post
-      count: 5
+      title: "Experience"
       filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0
-      order: desc
+        folders:
+          - experience
     design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: article-grid
+      columns: 1
 
+  # ===== (已移除 News 區塊) =====
+
+  # ===== Demo CTA（可保留或刪除）=====
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: true
     content:
       title: "👉 Build your own academic website like this"
       text: |-
