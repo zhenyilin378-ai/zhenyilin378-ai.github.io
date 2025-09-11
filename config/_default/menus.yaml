@@ -13,7 +13,7 @@ main:
     weight: 11
 
   - name: CV
-    url: /uploads/Youchen_CV.pdf
+    url: uploads/Youchen_CV.pdf
     weight: 12
 
   - name: Contact
