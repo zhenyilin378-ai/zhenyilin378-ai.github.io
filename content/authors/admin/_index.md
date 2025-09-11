@@ -1,10 +1,11 @@
 ---
-# 顯示名稱
+# 基本資訊
 title: "You Chen, Chen"
-
-# Full name (for SEO)
 first_name: "You Chen"
 last_name: "Chen"
+
+# 頭貼（你已經上傳在 content/authors/admin/avatar.jpg）
+avatar: "avatar.jpg"
 
 # 狀態 emoji
 status:
@@ -13,15 +14,12 @@ status:
 # 是否為主要使用者
 superuser: true
 
-# 頭貼（請確保 avatar.jpg 已放在 content/authors/admin/ ）
-avatar: "avatar.jpg"
-
-# 角色 / 標語
+# 角色/標籤
 role: "Ph.D. Student, Department of Political Science"
 
-# 所屬單位
+# 所屬機構
 organizations:
-  - name: University of Houston
+  - name: "University of Houston"
     url: "https://uh.edu/class/political-science/"
 
 # 社群連結
@@ -50,15 +48,15 @@ education:
     date_end: ""
     summary: "Currently pursuing doctoral studies in Political Science, focusing on legislative politics, public opinion, and political behavior."
   - area: M.A. in Political Science
-    institution: Tunghai University, Taiwan R.O.C.
+    institution: Tunghai University, Taiwan
     date_start: 2020-09-01
     date_end: 2022-06-30
   - area: B.A. in Political Science
-    institution: Tunghai University, Taiwan R.O.C.
+    institution: Tunghai University, Taiwan
     date_start: 2016-09-01
     date_end: 2020-06-30
 
-# CV 下載設定
+# CV 下載按鈕
 button:
   text: "Download CV"
   url: "/uploads/Youchen_CV.pdf"
