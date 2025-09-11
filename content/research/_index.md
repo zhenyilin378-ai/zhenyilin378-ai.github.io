@@ -7,12 +7,18 @@ type: page
 # Publications
 
 ## Journal Articles in Chinese
-6. Shiow-Duan Hawang and You-Chen Chen. (2025). Voters’ Evaluation of Legislators’ Consistency and Inconsistency in Positions: Evidence from Survey Experiment. Journal of Electoral Studies 32(1), 39-78.  
-5. Cheng-Han Tsai, Shiow-Duan Hawang, and You-Chen Chen. (2024). The Relationship between Legislators’ Political Ambition and Legislative Performances: A Machine Learning Approach. Public Administration & Policy, 80, 1-32.  
-4. Shiow-Duan Hawang, Cheng-Han Tsai, and You-Chen Chen. (2023). Where You Stand Depends on Where You Sit: The Impact of Incumbent on Taiwan Legislators’ Stance on Importing US Pork and Beef Issues. Taiwanese Journal of Political Science, 98, 41-82.  
-3. Meng-Che Yu, Shiow-Duan Hawang, and You-Chen Chen. (2022). Voters' Expectation Discrepancy, Citizen Watch, and Congressional Performance: An Analysis of the Ninth Legislative Yuan in Taiwan. Taiwan Democracy Quarterly, 19(1), 41-82.  
-2. Yu-Chung Shen and You-Chen Chen. (2021). Directly Elected President, Democratization and Party System Change: A Comparative Study on European Countries. Issues and Studies, 60(3), 1-33.  
-1. Yu-Chung Shen and You-Chen Chen. (2020). Election Campaigns on Social Media: A Study of Taiwan's 2018 Municipal Elections. Journal of National Development Studies, 19(2), 129-154.  
+
+- **2025** — Shiow-Duan Hawang and You-Chen Chen. Voters’ Evaluation of Legislators’ Consistency and Inconsistency in Positions: Evidence from Survey Experiment. Journal of Electoral Studies, 32(1), 39-78.  
+
+- **2024** — Cheng-Han Tsai, Shiow-Duan Hawang, and You-Chen Chen. The Relationship between Legislators’ Political Ambition and Legislative Performances: A Machine Learning Approach. Public Administration & Policy, 80, 1-32.  
+
+- **2023** — Shiow-Duan Hawang, Cheng-Han Tsai, and You-Chen Chen. Where You Stand Depends on Where You Sit: The Impact of Incumbent on Taiwan Legislators’ Stance on Importing US Pork and Beef Issues. Taiwanese Journal of Political Science, 98, 41-82.  
+
+- **2022** — Meng-Che Yu, Shiow-Duan Hawang, and You-Chen Chen. Voters' Expectation Discrepancy, Citizen Watch, and Congressional Performance: An Analysis of the Ninth Legislative Yuan in Taiwan. Taiwan Democracy Quarterly, 19(1), 41-82.  
+
+- **2021** — Yu-Chung Shen and You-Chen Chen. Directly Elected President, Democratization and Party System Change: A Comparative Study on European Countries. Issues and Studies, 60(3), 1-33.  
+
+- **2020** — Yu-Chung Shen and You-Chen Chen. Election Campaigns on Social Media: A Study of Taiwan's 2018 Municipal Elections. Journal of National Development Studies, 19(2), 129-154.
 
 ---
 
