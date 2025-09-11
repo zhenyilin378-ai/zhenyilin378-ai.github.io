@@ -1,12 +1,15 @@
 ---
+# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
+  # Default section spacing
   spacing: "6rem"
 
 sections:
+  # ===== About / Hero =====
   - block: resume-biography-3
     content:
       username: admin
@@ -20,12 +23,9 @@ sections:
         size: medium
         shape: circle
       background:
-        color: "#f5f5f5"
-        image:
-          filename: ""
-        filters:
-          brightness: 1.0
+        color: "#f5f5f5"   # 淺灰背景
 
+  # ===== Publications (anchor: #papers) =====
   - block: collection
     id: papers
     content:
@@ -49,6 +49,7 @@ sections:
     design:
       view: citation
 
+  # ===== Talks =====
   - block: collection
     id: talks
     content:
@@ -60,6 +61,9 @@ sections:
       view: article-grid
       columns: 1
 
+  # ===== (已刪除 Experience / News 區塊) =====
+
+  # ===== Demo CTA（可保留或刪除）=====
   - block: cta-card
     demo: true
     content:
