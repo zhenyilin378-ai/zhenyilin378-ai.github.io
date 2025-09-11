@@ -1,30 +1,27 @@
 ---
-# Display name
-title: You Chen, Chen
+# 顯示名稱
+title: "You Chen, Chen"
 
 # Full name (for SEO)
-first_name: You Chen
-last_name: Chen
+first_name: "You Chen"
+last_name: "Chen"
 
-# Status emoji
+# 狀態 emoji
 status:
   icon: 🐶
 
-# Is this the primary user of the site?
+# 是否為主要使用者
 superuser: true
 
-# Highlight the author in author lists?
-highlight_name: true
+# 角色 / 標語
+role: "Ph.D. Student, Department of Political Science"
 
-# Role/position/tagline
-role: Ph.D. Student, Department of Political Science
-
-# Organizations/Affiliations
+# 所屬單位
 organizations:
   - name: University of Houston
-    url: https://uh.edu/class/political-science/
+    url: "https://uh.edu/class/political-science/"
 
-# Social / Profiles
+# 社群連結
 profiles:
   - icon: at-symbol
     url: "mailto:ychen266@cougarnet.uh.edu"
@@ -36,35 +33,35 @@ profiles:
     url: "https://scholar.google.com/"
     label: Google Scholar
 
-# Research interests
+# 研究興趣
 interests:
   - Legislative Politics
   - Public Opinion
   - Political Behavior
 
-# Education
+# 學歷
 education:
   - area: Ph.D. in Political Science
     institution: University of Houston, U.S.
     date_start: 2025-08-01
     date_end: ""
-    summary: |
-      Currently pursuing doctoral studies in Political Science, focusing on legislative politics, public opinion, and political behavior.
+    summary: "Currently pursuing doctoral studies in Political Science, focusing on legislative politics, public opinion, and political behavior."
   - area: M.A. in Political Science
-    institution: Tunghai University, Taiwan R.O.C.
+    institution: Tunghai University, Taiwan
     date_start: 2020-09-01
     date_end: 2022-06-30
   - area: B.A. in Political Science
-    institution: Tunghai University, Taiwan R.O.C.
+    institution: Tunghai University, Taiwan
     date_start: 2016-09-01
     date_end: 2020-06-30
 
-# CV 按鈕設定
+# CV 下載按鈕
 button:
   text: "Download CV"
-  url: "/uploads/Youchen_CV.pdf?v=3"
+  url: "/uploads/Youchen_CV.pdf"
 ---
-
 ## About Me
-
-I am a Ph.D. student in the Department of Political Science at the University of Houston. My research interests include legislative politics, public opinion, and political behavior, with a particular focus on how voters perceive and evaluate the behavior of political elites and how elites and voters influence each other. Methodologically, I employ quantitative methods, survey research, and survey experiments. Prior to my Ph.D. studies, I received both my M.A. and B.A. in Political Science from Tunghai University in Taiwan.
+I am a Ph.D. student in the Department of Political Science at the University of Houston.  
+My research interests include legislative politics, public opinion, and political behavior,  
+with a focus on how voters perceive and evaluate the behavior of political elites.  
+Methodologically, I employ quantitative methods, survey research, and survey experiments.
